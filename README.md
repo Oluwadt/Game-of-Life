@@ -38,7 +38,7 @@ An interactive implementation of Conway's Game of Life using Python and Tkinter.
 
 ## 📸 Screenshots
 
-![Game of Life GUI](Screenshot1.png)
+![Game of Life GUI](screenshot.png)
 
 
 ---
