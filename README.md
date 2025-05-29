@@ -39,8 +39,8 @@ An interactive implementation of Conway's Game of Life using Python and Tkinter.
 ## 📸 Screenshots
 
 ![](./screenshot.png)
-![](./screenshot2.png)
-![](./screenshot3.png)
+![](./Screenshot2.png)
+![](./Screenshot3.png)
 
 ---
 
